@@ -1,4 +1,4 @@
-📈 Full Stack Stock Trading Platform
+## 📈 Full Stack Stock Trading Platform
 A Zerodha-inspired full-stack stock trading platform built using modern web technologies.
 The application provides real-time stock data visualization, secure authentication, and portfolio management features.
 ---
