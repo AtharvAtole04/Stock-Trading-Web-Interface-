@@ -31,7 +31,7 @@ This application helps businesses manage products, monitor inventory, analyze re
 
 ### Tools & Deployment
 - Git & GitHub
-- Postman (API Testing)
+- ThunderClient (API Testing)
 - VS Code
 
 ---
