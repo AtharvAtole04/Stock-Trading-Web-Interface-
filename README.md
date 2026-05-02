@@ -1,8 +1,6 @@
-# 📊 Full Stack Sales Analytics Dashboard
-
-A full-stack business analytics platform built using the MERN stack.  
-This application helps businesses manage products, monitor inventory, analyze revenue trends, and export business data for reporting.
-
+📈 Full Stack Stock Trading Platform
+A Zerodha-inspired full-stack stock trading platform built using modern web technologies.
+The application provides real-time stock data visualization, secure authentication, and portfolio management features.
 ---
 
 ## 🚀 Project Duration
