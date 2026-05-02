@@ -19,15 +19,17 @@ The application provides real-time stock data visualization, secure authenticati
 - HTML5, CSS3, JavaScript
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+-Node.js
+-Express.js
+-RESTful APIs
+-JWT Authentication
 
 ### Database
 - MongoDB
 - Mongoose
 
 ### Tools & Deployment
+-AWS EC2
 - Git & GitHub
 - ThunderClient (API Testing)
 - VS Code
