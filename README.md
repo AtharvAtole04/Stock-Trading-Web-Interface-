@@ -36,110 +36,24 @@ This application helps businesses manage products, monitor inventory, analyze re
 
 ---
 
-## ✨ Features
-
-### Product Management
-- Add Products
-- View Products
-- Delete Products
-- Search Products
-- Sort Products by Price
-
-### Business Analytics
-- Total Products Dashboard
-- Inventory Quantity Overview
-- Revenue Tracking
-- Interactive Charts
-
-### Data Management
-- Export Product Data to CSV
-- Real-time Data Updates
-
----
-
-## 🏗 System Architecture
-
+✨ Features
+🔐 Secure User Authentication using JWT
+📊 Interactive Stock Charts with Chart.js
+📈 Real-time Stock Data Integration via Live APIs
+💼 Portfolio Management Dashboard
+🔄 RESTful API Architecture
+☁️ Deployed on AWS EC2 for scalable hosting
+📌 System Architecture
 Client (React.js)
-
 ⬇
-
 REST APIs (Node.js + Express.js)
-
 ⬇
-
 MongoDB Database
 
----
-
-## 📂 Project Structure
-
-```bash
-mern-sales-analytics/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── config/
-│   └── package.json
-│
-├── .gitignore
-└── README.md
-```
-
----
-
-## ⚙ Installation & Setup
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/mern-sales-analytics.git
-```
-
-### Backend Setup
-
-```bash
-cd backend
-npm install
-npm run dev
-```
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
----
-
-## 🔐 Environment Variables
-
-Create `.env` file inside backend:
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-```
-
----
-
-## 📈 Future Enhancements
-
-- Monthly Sales Trends
-- Category-wise Analytics
-- Customer Analytics
-- Profit Forecasting
-- Admin Authentication
-
----
+⚙️ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 
 ## 👨‍💻 Author
 
