@@ -36,21 +36,22 @@ The application provides real-time stock data visualization, secure authenticati
 
 ---
 
-✨ Features
+### ✨ Features
 🔐 Secure User Authentication using JWT
 📊 Interactive Stock Charts with Chart.js
 📈 Real-time Stock Data Integration via Live APIs
 💼 Portfolio Management Dashboard
 🔄 RESTful API Architecture
 ☁️ Deployed on AWS EC2 for scalable hosting
-📌 System Architecture
+
+### 📌 System Architecture
 Client (React.js)
 ⬇
 REST APIs (Node.js + Express.js)
 ⬇
 MongoDB Database
 
-⚙️ Installation & Setup
+### ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
